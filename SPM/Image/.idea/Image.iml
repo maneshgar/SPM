@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../Geometry/GeometricObject.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../Geometry/GeometricObject.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../Geometry/GeometryExporter.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../Geometry/GeometryExporter.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../Geometry/GeometryProcessing.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../Geometry/GeometryProcessing.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Color.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageProcessing.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Color.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageProcessing.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Image.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Image.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/linear_bf.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/fft_3D.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/math_tools.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/array_n.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/chrono.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/fast_color_bf.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/array.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/geom.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/mixed_vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/include/msg_stream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/fft_3D/convolution_3D.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/fft_3D/support_3D.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/fft_3D/support_3D.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilateral_filtering/fft_3D/fill_3D.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/FindCGAL.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/FindGMP.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/FindMPFR.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/FindLibFFTW3.cmake" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib64/gcc/x86_64-suse-linux/6/include-fixed" />
+          <root url="file:///usr/lib64/gcc/x86_64-suse-linux/6/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file:///usr/x86_64-suse-linux/include" />
+          <root url="file://$MODULE_DIR$/../General" />
+          <root url="file://$MODULE_DIR$/../Math" />
+          <root url="file://$MODULE_DIR$/../Geometry" />
+          <root url="file://$MODULE_DIR$/../Statistics" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib64/gcc/x86_64-suse-linux/6/include-fixed" />
+          <root url="file:///usr/lib64/gcc/x86_64-suse-linux/6/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file:///usr/x86_64-suse-linux/include" />
+          <root url="file://$MODULE_DIR$/../General" />
+          <root url="file://$MODULE_DIR$/../Math" />
+          <root url="file://$MODULE_DIR$/../Geometry" />
+          <root url="file://$MODULE_DIR$/../Statistics" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../Geometry/GeometryExporter.cpp" />
+          <root url="file://$MODULE_DIR$/../Geometry/GeometryProcessing.cpp" />
+          <root url="file://$MODULE_DIR$/../Geometry/GeometricObject.cpp" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
